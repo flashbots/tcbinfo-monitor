@@ -48,9 +48,15 @@ jobs:
         if: env.differences == 'true'
         run: |
           mkdir -p diffs
-          cdate=$(date +%Y-%m-%d)
+          cdate=$(date -u +%Y-%m-%d)
           echo "date=$cdate" >> "$GITHUB_OUTPUT"
-          python generate_diff_html.py tcbs.json new_tcbs.json > "diffs/${cdate}.html" || rm "diffs/${cdate}.html" # exits with (1) if no changes, in which case remove the file
+          diff_output=$(mktemp "${RUNNER_TEMP}/tcb-diff.XXXXXX")
+          trap 'rm -f "$diff_output"' EXIT
+          python generate_diff_html.py tcbs.json new_tcbs.json > "$diff_output"
+          if [ -s "$diff_output" ]; then
+            diff_name="${cdate}-$(date -u +%H%M%S)-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.html"
+            mv "$diff_output" "diffs/$diff_name"
+          fi
           mv new_tcbs.json tcbs.json
           python generate_index.py > index.html
 

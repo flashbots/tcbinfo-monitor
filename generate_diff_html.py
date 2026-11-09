@@ -60,21 +60,19 @@ def generate_diff_html(previous_json_file, current_json_file):
 
     diff = DeepDiff(previous_data_remapped, current_data_remapped, ignore_order=True, verbose_level=2, exclude_regex_paths=[issueDatePath, nextUpdatePath])
 
+    # No meaningful changes: succeed without emitting a history entry.
+    if not diff:
+        return
+
     current_date_nice = datetime.now().strftime("%Y-%m-%d")
 
     html_content = f"""<h2>TCB Change Log - {current_date_nice}</h2>"""
 
-    if not diff:
-        html_content += "<p>No changes detected.</p>"
-    else:
-        markdown_diff = format_diff(diff)
-        html_content += "<pre>" + markdown_diff + "</pre>"
+    markdown_diff = format_diff(diff)
+    html_content += "<pre>" + markdown_diff + "</pre>"
 
     # Write the HTML content to the output file
     print(html_content)
-
-    if not diff:
-        sys.exit(1)
 
 if __name__ == "__main__":
     generate_diff_html(sys.argv[1], sys.argv[2])
