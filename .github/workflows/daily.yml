@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    outputs:
+      site_ref: ${{ steps.commit_tcb.outputs.commit || github.sha }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -61,6 +63,7 @@ jobs:
           python generate_index.py > index.html
 
       - name: Commit TCB update
+        id: commit_tcb
         if: env.differences == 'true'
         uses: iarekylew00t/verified-bot-commit@1ee4374942e5c5f814e9b3121d766cbe45cea360 # v2.3.6
         with:
@@ -70,3 +73,41 @@ jobs:
             tcbs.json
             index.html
             diffs/**
+
+  deploy-pages:
+    needs: update-json
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.update-json.outputs.site_ref }}
+          persist-credentials: false
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepare website files
+        run: |
+          mkdir -p "$RUNNER_TEMP/site"
+          cp index.html tcbs.json "$RUNNER_TEMP/site/"
+          cp -R diffs "$RUNNER_TEMP/site/diffs"
+
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/site
+
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4

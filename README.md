@@ -5,12 +5,23 @@ Automated intel tcbs tracker.
 Fetches all tcbs daily and compares against the previously seen.  
 Diffs are automatically pushed to `diffs/` and compiled into `index.hmtl`.  
 
-Hosted on [ruteri.github.io/tcbinfo-monitor](https://ruteri.github.io/tcbinfo-monitor/)!
+Hosted on [flashbots.github.io/tcbinfo-monitor](https://flashbots.github.io/tcbinfo-monitor/)!
 
 ### Deep Links
 
 Use the `?fmspc=` URL parameter to link directly to a specific FMSPC search, e.g.:
-`https://ruteri.github.io/tcbinfo-monitor/?fmspc=00A06D080000`
+`https://flashbots.github.io/tcbinfo-monitor/?fmspc=00A06D080000`
+
+### Website deployment
+
+In repository **Settings → Pages → Build and deployment**, set **Source** to
+**GitHub Actions**. The daily workflow deploys the website after a successful
+update on `main`, including when no data changes were found. It publishes the
+exact update commit, or the workflow's starting commit when there is no update.
+Only `index.html`, `tcbs.json`, and `diffs/` are included in the website artifact.
+
+To deploy immediately, run **Daily JSON Update → Run workflow** on `main` from
+the Actions tab. The deployment URL appears in the `github-pages` environment.
 
 ### Slack Notifications
 
@@ -35,6 +46,7 @@ secrets, or bot identity variables are needed. The action creates the commit and
 updates the remote branch, replacing the manual `git commit` and `git push` steps.
 
 After enabling the workflow, verify that its next update succeeds and the commit
-shows **Verified** on GitHub. Other branch restrictions still apply. Pages deployment
-and Slack notifications require separate configuration; commits made with
-`GITHUB_TOKEN` do not trigger ordinary push workflows or branch-based Pages builds.
+shows **Verified** on GitHub. Other branch restrictions still apply. The workflow
+deploys Pages explicitly because commits made with `GITHUB_TOKEN` do not trigger
+ordinary push workflows or branch-based Pages builds. Slack notifications require
+the secrets described above.

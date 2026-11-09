@@ -6,7 +6,7 @@ import sys
 import requests
 from deepdiff import DeepDiff
 
-SITE_URL = "https://ruteri.github.io/tcbinfo-monitor/"
+SITE_URL = "https://flashbots.github.io/tcbinfo-monitor/"
 
 
 def remap_tcb_data(data):
