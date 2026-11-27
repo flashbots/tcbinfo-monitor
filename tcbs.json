@@ -3,8 +3,8 @@
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:04Z",
-      "nextUpdate": "2026-12-26T00:08:04Z",
+      "issueDate": "2026-11-27T00:00:42Z",
+      "nextUpdate": "2026-12-27T00:00:42Z",
       "fmspc": "00A06D080000",
       "pceId": "0000",
       "tcbType": 0,
@@ -303,14 +303,14 @@
         }
       ]
     },
-    "signature": "2feebba6e8253987f461180343f02c003d819c31c3e51965a495989fe62782c5a4e2f4a738cee54f4f1919679b15352106a1142e8306bd4adc954aa00be0a8db"
+    "signature": "d042e80f25cf414dfa220f68f948d3a006470478f838798841fda3639020ac9e5e7b082a0342fbce00e01dac73cc97a82751dabbc6d190903400994743cbbb88"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:05Z",
-      "nextUpdate": "2026-12-26T00:08:05Z",
+      "issueDate": "2026-11-27T00:00:42Z",
+      "nextUpdate": "2026-12-27T00:00:42Z",
       "fmspc": "00A06D080000",
       "pceId": "0000",
       "tcbType": 0,
@@ -997,14 +997,14 @@
         }
       ]
     },
-    "signature": "d7e7d061758f64ac698ef3ef7dbd122c3e517194b5bd5f8e9020107a157877ddbf5e1a18e4da22a7988a1ce5895a0a4c4c738ecb0988b3f4e268c2056e273542"
+    "signature": "6f88dbd7034646710519ba8876a17d0c1daa168c1439005c15c9d1b195250bb854f3ef3b96ecd4b714b4dc4a4fe055d9cc8c7965782abed18d5d028e7f86b9fc"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:05Z",
-      "nextUpdate": "2026-12-26T00:08:05Z",
+      "issueDate": "2026-11-27T00:00:45Z",
+      "nextUpdate": "2026-12-27T00:00:45Z",
       "fmspc": "70A06D070000",
       "pceId": "0000",
       "tcbType": 0,
@@ -1303,14 +1303,14 @@
         }
       ]
     },
-    "signature": "5d514fc542640842b6b22d26f56224a51657b57aee3a9010695bde594e87247b476b7e0701681aec9c3ea05ecf824761e4669ac1ec57a8c7671e79ac1eeda783"
+    "signature": "c8c39289798191bbe3277378ae83ac6140620bb2b8e1bcb6809aa3cd64e6f0d34fa7741b9058295ee565889337a10a8ce802ace880d4aeda4613e41f26fe4362"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:06Z",
-      "nextUpdate": "2026-12-26T00:08:06Z",
+      "issueDate": "2026-11-27T00:00:44Z",
+      "nextUpdate": "2026-12-27T00:00:44Z",
       "fmspc": "70A06D070000",
       "pceId": "0000",
       "tcbType": 0,
@@ -1997,14 +1997,14 @@
         }
       ]
     },
-    "signature": "561ba36c0b4f00992ccbe28ea9c5af4bceb2e9bf55db017752f0a7ab61f69cc1a39074fb8f6d9d8b9c48e3095b1b71732a756ed5c1ce834cd17fc3af3ebf1315"
+    "signature": "bd7981196f105b912d0a6aec4abc7e8765d315c666064dccc5df39b4258acc13f49f964182d1b0f4107c0510c19e082a5aa105e6932fa9e7f5d3a65509663972"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:06Z",
-      "nextUpdate": "2026-12-26T00:08:06Z",
+      "issueDate": "2026-11-27T00:00:52Z",
+      "nextUpdate": "2026-12-27T00:00:52Z",
       "fmspc": "00A06E050000",
       "pceId": "0000",
       "tcbType": 0,
@@ -2226,14 +2226,14 @@
         }
       ]
     },
-    "signature": "25d24b867d04170c04386521bc10d5954b9f71b7eca46e22ad60df4e6af299669428693472026bc1ae3c2cf861ce75230bbe07d84c059fe12cf68305145cf964"
+    "signature": "90af33360e6f15667a82566c6fc8a29cb790031577f78594dbb4323ee8bcc33fc4fc376da41b6df8eb4c3ada1b61767d10aa307ab236dce5284a74670114eaa4"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:06Z",
-      "nextUpdate": "2026-12-26T00:08:06Z",
+      "issueDate": "2026-11-27T00:00:52Z",
+      "nextUpdate": "2026-12-27T00:00:52Z",
       "fmspc": "00A06E050000",
       "pceId": "0000",
       "tcbType": 0,
@@ -2779,14 +2779,14 @@
         }
       ]
     },
-    "signature": "7c56c97f0bffe512af0c7f90f6ad45ad36b1efa1d10df6d8c4b3854e74348afb2181f45d34469b640372deca9e7e2f31339b155afd0bcb9c02ecdd8642cabe91"
+    "signature": "525d0cc425eff90b5d6d34f14ebc68fb7e1b20ec3ba91dda0b014c6f622a847400aa0ab00ec853e7629f5a0d4017f659063bc6e07f369b69af60ed73b5eaf5d6"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:45Z",
-      "nextUpdate": "2026-12-26T00:00:45Z",
+      "issueDate": "2026-11-27T00:00:36Z",
+      "nextUpdate": "2026-12-27T00:00:36Z",
       "fmspc": "00906EA50000",
       "pceId": "0000",
       "tcbType": 0,
@@ -4362,14 +4362,14 @@
         }
       ]
     },
-    "signature": "2784f82eecb3cff63c5af4613aa3396d9bea349e42f027da6e2fc6dbf03ac7bd866c97ffa3ac7977faa0b5bb60d3afde1b133c559e1dfaf7a447810d3ba5d6af"
+    "signature": "98377e59ab54198a89af73b19ff667a0339442af9c612c6b1651cb45e0a7b919873671748546cb8c07e4c32907cdcbbb3cb3912d9b26d8a6e36fdbabe124ee7a"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:07Z",
-      "nextUpdate": "2026-12-26T00:08:07Z",
+      "issueDate": "2026-11-27T00:00:43Z",
+      "nextUpdate": "2026-12-27T00:00:43Z",
       "fmspc": "20606C040000",
       "pceId": "0000",
       "tcbType": 0,
@@ -5574,14 +5574,14 @@
         }
       ]
     },
-    "signature": "424a360a781e8515d3b1078fa11184b20b111138ca2bd6985f33ad099509f94c49d03a27763d4f8b9e0a97a42c6def9cd93e08a78fc3211f6f8102ad7dac422a"
+    "signature": "8fbfd6fbfdf4a9b6935563f2074337e2fc8573e51eacb3a8a430faa99a46db2b082d3ae5ba77a88e718a059e62baebacca32883660541be3c555d9738d2e175b"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-25T23:15:54Z",
-      "nextUpdate": "2026-12-25T23:15:54Z",
+      "issueDate": "2026-11-26T23:31:58Z",
+      "nextUpdate": "2026-12-26T23:31:58Z",
       "fmspc": "50806F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -6136,14 +6136,14 @@
         }
       ]
     },
-    "signature": "70da5cf7502a55a7201afa491713e82822a35875e78ed989cc16782f34f73b520384239f401a4e4571d3d2f36e3c5d077bf638e6d352d1cfaafb1a4fc87ab2e3"
+    "signature": "6c185b31ac4526d50ac1c7a0bf5b448c7a62f74db29cbaf0da11db0e62be8d189a42aa8a504f611e15c51b96e0ba773fa0e256b43b134f567a27f341044f5268"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:08Z",
-      "nextUpdate": "2026-12-26T00:08:08Z",
+      "issueDate": "2026-11-26T23:31:47Z",
+      "nextUpdate": "2026-12-26T23:31:47Z",
       "fmspc": "50806F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -7273,14 +7273,14 @@
         }
       ]
     },
-    "signature": "52fb499950ffc2f63bb9e4437f49c95ba37afa772549f1d617a00cd7482c3d1b1c390e281b1038508dc40876185e947336597614627599b1546a7b9e36c22a03"
+    "signature": "901b7533d0fe952d19bce52e1ec36da6cbc7f7a96380cd60e4ef9628146cf3498783589244e70bc5d2956213796793071294e65ffb54df1464da3d0fe1cb97cb"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-25T23:30:52Z",
-      "nextUpdate": "2026-12-25T23:30:52Z",
+      "issueDate": "2026-11-27T00:02:02Z",
+      "nextUpdate": "2026-12-27T00:02:02Z",
       "fmspc": "00A067110000",
       "pceId": "0000",
       "tcbType": 0,
@@ -8273,14 +8273,14 @@
         }
       ]
     },
-    "signature": "8e87cae1c089597f9da1e28b744d95f30a399aebd1084f9aba10ebab3f54865e792c76516597eb2fca67ff2249050119e2ca25122a18174ee6321037d59f62d0"
+    "signature": "69c2285977a9b675009a54749ae7c7b3bf657deef2b5e3af35d429286614c051635425ed2fc8b8e2a4b7121cf2e54dd438ff361d629fc2a6752a4cb0a396d826"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-25T23:15:55Z",
-      "nextUpdate": "2026-12-25T23:15:55Z",
+      "issueDate": "2026-11-26T23:32:00Z",
+      "nextUpdate": "2026-12-26T23:32:00Z",
       "fmspc": "00606C040000",
       "pceId": "0000",
       "tcbType": 0,
@@ -9566,14 +9566,14 @@
         }
       ]
     },
-    "signature": "0f9e9b6bfc55c8047870addf4d2a20c4b48dda42c9de820e2f536cf6df590e09481e63fd1bf3e64a1dfb850a7a4d35ffbf9db419ad284b45b3623af4aa7d93e3"
+    "signature": "b49698b7053fcc35ae01b6bff9bb3db2c1c33ff86ef10fc709f6d48c25f02cf1e88903c20ea2cadaf79a7b1b84c7f9e6d5485b43afcf1e095e237819b70dedbf"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:43Z",
-      "nextUpdate": "2026-12-26T00:00:43Z",
+      "issueDate": "2026-11-27T00:00:35Z",
+      "nextUpdate": "2026-12-27T00:00:35Z",
       "fmspc": "00706E470000",
       "pceId": "0000",
       "tcbType": 0,
@@ -10708,14 +10708,14 @@
         }
       ]
     },
-    "signature": "86f541d71501a5f03989572d31b2c8e19976bbdce88815c04932ca600e36a5c372e28595ff86a9dcb54cbba107288171752ece2c5d5b4599bd34e3ac1749b2a1"
+    "signature": "e262a7a18556791960085edbeec443cac70146f6269dbbe38ba7c4ecdfef401cc3cd787f576fadc2ec7741abc2351cf1cf0ba7159fcc67d144586d6a58d316fc"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:45Z",
-      "nextUpdate": "2026-12-26T00:00:45Z",
+      "issueDate": "2026-11-27T00:00:37Z",
+      "nextUpdate": "2026-12-27T00:00:37Z",
       "fmspc": "00806EA60000",
       "pceId": "0000",
       "tcbType": 0,
@@ -12291,14 +12291,14 @@
         }
       ]
     },
-    "signature": "6b5b02f170f495cf83d6ff4c8c56b261990bc85a3140400d1b0eb76b3c6127cf6e85f09b8ed96d40f0feaaf73b7f17672b8f8a5fa6d898ae983b237fd714910d"
+    "signature": "6408345cec80b42cc948066f147d02ee9d103c86ee3a048af8aa1b30dfbc42286afb0a44b1d6efe8289ec5ce30eb325b2faf46282a5bd16f3e94626687eba388"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-25T23:15:47Z",
-      "nextUpdate": "2026-12-25T23:15:47Z",
+      "issueDate": "2026-11-27T00:00:35Z",
+      "nextUpdate": "2026-12-27T00:00:35Z",
       "fmspc": "00706A800000",
       "pceId": "0000",
       "tcbType": 0,
@@ -12900,14 +12900,14 @@
         }
       ]
     },
-    "signature": "96df31e60fe590cb462b1910eae9978a6582c137b937bf4531e21262ade158db97c2e52f326399d9bd3fc6d0bca7b9e0ce58aeae916569426365cfa853180252"
+    "signature": "4a3bb2e9e407617db618153ae6c2ecf84c3cde0fd62a9c156523e7b852a2a11d1ee21b13c31434152d84f07f2120751a5d8595c90189a83bee665bcd61bc9b48"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:44Z",
-      "nextUpdate": "2026-12-26T00:00:44Z",
+      "issueDate": "2026-11-27T00:00:36Z",
+      "nextUpdate": "2026-12-27T00:00:36Z",
       "fmspc": "00706A100000",
       "pceId": "0000",
       "tcbType": 0,
@@ -13741,14 +13741,14 @@
         }
       ]
     },
-    "signature": "df9065a58da7e9397fda6b35c11cd8264f71a0877f0d7d01163b74a3d9e06a55bf7be27f26dc8db3525714264766e1fa10e4a00c309a6d15ab490f4934638f19"
+    "signature": "f69968d6f97436cf70670fc9f51490474706a1a649a7c5a9b985c3700f48ad62f53e4cc2540a1766c4fb410edd04a0d85d5e7a31211c7ec55e6516690c5e4fb4"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:13Z",
-      "nextUpdate": "2026-12-26T00:08:13Z",
+      "issueDate": "2026-11-27T00:00:53Z",
+      "nextUpdate": "2026-12-27T00:00:53Z",
       "fmspc": "20A06E050000",
       "pceId": "0000",
       "tcbType": 0,
@@ -13970,14 +13970,14 @@
         }
       ]
     },
-    "signature": "48f7643f5fb1343f34b9d2231adc58a8d6d41b9cd16b2aaabe20c285a9acc46668b9894be019f090a48c6cd528d128ffdcdf8fa290bf4bf9d14501a0c5521221"
+    "signature": "ec33f30b7feaa779ff27856f0c04a0f8bba521b899322effa94d1d2fa62e3ec6fd29c0c9af2b309a05a4555288a01656dc709f3067b6580e0bf4da2814c979b1"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:13Z",
-      "nextUpdate": "2026-12-26T00:08:13Z",
+      "issueDate": "2026-11-27T00:00:52Z",
+      "nextUpdate": "2026-12-27T00:00:52Z",
       "fmspc": "20A06E050000",
       "pceId": "0000",
       "tcbType": 0,
@@ -14523,14 +14523,14 @@
         }
       ]
     },
-    "signature": "9b762232c828723039b62eb6ca2d0d1236304c9e891a828b7b84d408c4f9bffbe05dec9410f227537bfd7808c5ff9fd04073fb07a3e6922f202563e2ef113f10"
+    "signature": "fcc6dbdb31fa1eab87088611bf1cbf0fd90f50e26b3180c7e7eef9436982940fb76a702dcd5f05e886c2bcb42b8aa7460c17de82f230b4c5d7d8ba53d063d51c"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:13Z",
-      "nextUpdate": "2026-12-26T00:08:13Z",
+      "issueDate": "2026-11-27T00:00:49Z",
+      "nextUpdate": "2026-12-27T00:00:49Z",
       "fmspc": "F0806F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -15066,14 +15066,14 @@
         }
       ]
     },
-    "signature": "dfa9e47a413fdb5ebd95a6d688a72254fcbed596fdb1a2479fe7c814959b02772d7cc9bbef60ab4d8f5e10d8965d320b7d11b501e74dc0ec426e8f068c807dc2"
+    "signature": "783a27f789a60c32cbfd5ed988ed7720c14a105c59a8ccfc47ad4fe746c4cc4b37a34a052aea1416ae4763b981792bd1c874ad76c378f8ce30dd7825048c4135"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:46Z",
-      "nextUpdate": "2026-12-26T00:00:46Z",
+      "issueDate": "2026-11-27T00:00:37Z",
+      "nextUpdate": "2026-12-27T00:00:37Z",
       "fmspc": "00806EB70000",
       "pceId": "0000",
       "tcbType": 0,
@@ -15202,14 +15202,14 @@
         }
       ]
     },
-    "signature": "b55d2e096cd4d5f259cd3a28a5f316ce84f7fca6c3111cebf617ed07cd55fa90355e14728d28ea437ce8044624e213318995addb6aa41d8f5b890a4a92d7f72e"
+    "signature": "bf34824b0dcd1a76125bf228f2e3c4c0926cc886884252f0c7977cc942bcd46b2b6dd4ef239e87dfbb21c5ece663749b00c4ce779b089ce3b9bbda77b3c7a1b3"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:46Z",
-      "nextUpdate": "2026-12-26T00:00:46Z",
+      "issueDate": "2026-11-27T00:00:38Z",
+      "nextUpdate": "2026-12-27T00:00:38Z",
       "fmspc": "00906EC50000",
       "pceId": "0000",
       "tcbType": 0,
@@ -16704,14 +16704,14 @@
         }
       ]
     },
-    "signature": "9f59125a7eb1dd7f76192d7c5eb7c0cbb96b4bf9eb8445384752c4e2858d62fb86f59b825f5ff2b07da6b141616629100f7e7007945e6052927a06d4337fe5fa"
+    "signature": "6dae13eaacb223f6431710fbea174a03f8c4824a390b382f12e5fcc9a87ee63e75d7e2c6430ec803d1c3d728ac1a4743e8cb780997f67629302933faa863260d"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:15Z",
-      "nextUpdate": "2026-12-26T00:08:15Z",
+      "issueDate": "2026-11-27T00:00:45Z",
+      "nextUpdate": "2026-12-27T00:00:45Z",
       "fmspc": "90806F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -17266,14 +17266,14 @@
         }
       ]
     },
-    "signature": "affddb24032e5c0156e4375d845c0cbe3ebd02a25817d31172c81820b5d46938b6d1d1c7064d52d7c4c8612a23bd86e9d3f3a1d9e2e9eaa64d0cd4e9a2badb21"
+    "signature": "328516cfbcaec94aecc49850e9d2f43b0cbb18f6ed521aa78b291f66b16a87ddb8ffa1b5daaa8a0eb93478a808f0b3f2f97905b9069b59b170e692d21aa8d3e7"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:16Z",
-      "nextUpdate": "2026-12-26T00:08:16Z",
+      "issueDate": "2026-11-27T00:00:51Z",
+      "nextUpdate": "2026-12-27T00:00:51Z",
       "fmspc": "10A06F010000",
       "pceId": "0000",
       "tcbType": 0,
@@ -17349,14 +17349,14 @@
         }
       ]
     },
-    "signature": "51be9080440de570be89f3f2f2ecd86c11073ef8896721a876d74f3a3ad10241380eb72d73daa595d39159c73234a618fa8669f7376e82099c1dc6495dd33a9b"
+    "signature": "78d612b616da71656233981bea5aaad5c5b0fde03016b27c1744b01ce5f3e2cee9ddb1c0e8374102996b63464075c350235d9c66e8eae363de429b1837a1622e"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:17Z",
-      "nextUpdate": "2026-12-26T00:08:17Z",
+      "issueDate": "2026-11-27T00:00:50Z",
+      "nextUpdate": "2026-12-27T00:00:50Z",
       "fmspc": "10A06F010000",
       "pceId": "0000",
       "tcbType": 0,
@@ -17640,14 +17640,14 @@
         }
       ]
     },
-    "signature": "d9936d2a4e505597c9dee6dfdf4ad6a059a92c3a0f7c010ae1bd6920a4d049c81bda00fb0a67c92e6fca517351507b63347b4d036d67ee015056f979b3851795"
+    "signature": "58cdb1e65e4beb03f1ff61476319c00470983a2f934078ca599c9b6faf4019372bc294571aeac7c134fcde703f84b1eb8519838d58ff3c3340e7f8f6317836f1"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:47Z",
-      "nextUpdate": "2026-12-26T00:00:47Z",
+      "issueDate": "2026-11-27T00:00:38Z",
+      "nextUpdate": "2026-12-27T00:00:38Z",
       "fmspc": "00906EC10000",
       "pceId": "0000",
       "tcbType": 0,
@@ -17776,14 +17776,14 @@
         }
       ]
     },
-    "signature": "4bd331292dccfe8df0f5ce41beb37a361c2e326ccecbfe93aec1dc104185f1b32dab7c79a92ba899aabc297dfa7f7f1110608b11cde00f5ef37e9ef9b73c4b44"
+    "signature": "1061a627e88844aa09c7f9b7bbb569a72266c988a3d5f4a48a140fa42637d67fcb0a79df001e956b7b43cd3e223d2e3db52b5c15deff64f523e649614d7d9e94"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-25T23:36:53Z",
-      "nextUpdate": "2026-12-25T23:36:53Z",
+      "issueDate": "2026-11-26T23:55:46Z",
+      "nextUpdate": "2026-12-26T23:55:46Z",
       "fmspc": "B0C06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -18170,14 +18170,14 @@
         }
       ]
     },
-    "signature": "068ff29026e63abe197d010979ef0ec07202274b2b16324a424c82735563826fb8a2661443a7beada6cdb72efc5c133cdbdccd9f16c97e536a0b8e053f711024"
+    "signature": "05f662ca31d59699bdfc22fcaf2c8ebd992af822b2d88cc5f006d4e6dab6b105217d6bbc76cd081de304e1559845d8ea8b3607203ac376354dc48330b8bf7728"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-25T23:13:55Z",
-      "nextUpdate": "2026-12-25T23:13:55Z",
+      "issueDate": "2026-11-26T23:31:48Z",
+      "nextUpdate": "2026-12-26T23:31:48Z",
       "fmspc": "B0C06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -19009,14 +19009,14 @@
         }
       ]
     },
-    "signature": "cac04e827d8f9a70c9c12833366b6907a2348debb8d07664790fba748fd105b053342f1c226bbb1a6df4a424c6982ee1f134fa07fac7be7c18f34a8bfd0a1c11"
+    "signature": "0c18ed27f39653a906aaae412942379123c81321d4ab9b003d6dd8b2c19b6a60abbf07d938ca8e2f9659507bdf2897ab5e94667a05ad1f46c9e80a02cea386f8"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:18Z",
-      "nextUpdate": "2026-12-26T00:08:18Z",
+      "issueDate": "2026-11-27T00:00:51Z",
+      "nextUpdate": "2026-12-27T00:00:51Z",
       "fmspc": "20A06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -19392,14 +19392,14 @@
         }
       ]
     },
-    "signature": "ba38e6218b7880e61eb11eb27bd0bf348ca3abbdb5ea9cb7b74d7a33ca6d2e3980442af1aefe365fdef332c3426b363db7419bd5d1236c2efbc7d0cf380f81d0"
+    "signature": "86f9262299f725d1f16a4dca91d3ac0f9bad519a23cd37ef9af86ce1add83ae7f9b7b74c18ff498c2d761be0f3c19492e99ebd921c2968f6070e74c4af93947c"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-25T23:52:41Z",
-      "nextUpdate": "2026-12-25T23:52:41Z",
+      "issueDate": "2026-11-27T00:08:14Z",
+      "nextUpdate": "2026-12-27T00:08:14Z",
       "fmspc": "20A06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -20220,14 +20220,14 @@
         }
       ]
     },
-    "signature": "220eff3668d76ecc4bd5e3470ef04071207fd4fd10154afc4f1a6ee268521ad8233edccc4daf90516ee3003708279932d17c8ab055d4bdef94090039d5013e5a"
+    "signature": "dc053cb02ff95241cb4d3d4806197aa67f962cfc0089642aff3a1fa6cfe2af984065eed0faf99a80a02f5a26d51b567e5c6470b403a22e71fac575178263e141"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:19Z",
-      "nextUpdate": "2026-12-26T00:08:19Z",
+      "issueDate": "2026-11-26T23:31:51Z",
+      "nextUpdate": "2026-12-26T23:31:51Z",
       "fmspc": "00906ED50000",
       "pceId": "0000",
       "tcbType": 0,
@@ -21690,14 +21690,14 @@
         }
       ]
     },
-    "signature": "9702368852d83aa4751dd6a57a83ad6513551dc028e824fcf3fceed2d1dfbb908d2c00b80dc64cf14ab3e048d5f234d1d72b66023ee76591d710f0f7cf74f2aa"
+    "signature": "2d803e19366e34bdcf2b51e72103b0a4bbc2664c84e842a8c71e334a49b0cf63c083b225e8a6a7114a046a9e6c0288060229e56e6b0421f24aa52487cbfd4346"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:19Z",
-      "nextUpdate": "2026-12-26T00:08:19Z",
+      "issueDate": "2026-11-27T00:00:49Z",
+      "nextUpdate": "2026-12-27T00:00:49Z",
       "fmspc": "60A06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -21995,14 +21995,14 @@
         }
       ]
     },
-    "signature": "00fdbae52765b3dc0fd5f3b5ae6d9d9d7b05e2720dc69d940bb3ad8023dd8ea814f8ceb25091a5eef63183f6d8bd7cbc66dea8056f2d7addf171b12046107f53"
+    "signature": "14ac8a2f0012c5d57bc016c10913951421fa0e5a9b8f05bcb624b1b9694f0e4236cfd00229380f0c10900dc81fb7ff0f45218f6dd7c3cb5bd3f7a365a8e55413"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:20Z",
-      "nextUpdate": "2026-12-26T00:08:20Z",
+      "issueDate": "2026-11-27T00:00:49Z",
+      "nextUpdate": "2026-12-27T00:00:49Z",
       "fmspc": "60A06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -22685,14 +22685,14 @@
         }
       ]
     },
-    "signature": "789969bbc40938c534cd759720a6eaebf66776cb70e5a6673e6d8ce83246e42da81f73b7deff4e9de54c1e8dbbbe9bf34571cc782c6143fcc93b8955521d00a3"
+    "signature": "67f41dd1c67204ac339110c33ccdeffe9b88fb7268c38b10772971b516755a695ca43b66bdc23e6e5ec21c3fb2d8129caef2d1bbf6b7ec409af0469132ea612d"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:20Z",
-      "nextUpdate": "2026-12-26T00:08:20Z",
+      "issueDate": "2026-11-26T23:45:45Z",
+      "nextUpdate": "2026-12-26T23:45:45Z",
       "fmspc": "00A065510000",
       "pceId": "0000",
       "tcbType": 0,
@@ -23619,14 +23619,14 @@
         }
       ]
     },
-    "signature": "05201212b93c39e919524d407264fe30ad08e309698da20280ef8b541cbb6306e16e5b3ada438572588c4f38382517155ca39c30cd65c83c878ff6005b56d844"
+    "signature": "85fb31e75d73c1bf3bc2c10f3ec38cba240977ef63c74ce4277410c2be9344c1033f023e0b67064215af125d698c2b7ffe5942f01e6b695243f15a76fff9e09a"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:21Z",
-      "nextUpdate": "2026-12-26T00:08:21Z",
+      "issueDate": "2026-11-26T23:31:54Z",
+      "nextUpdate": "2026-12-26T23:31:54Z",
       "fmspc": "30606A000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -24908,14 +24908,14 @@
         }
       ]
     },
-    "signature": "0756741639a179694077c714993e9a66766b7eabe084d71f604290107f7ce356461e2af0059ee85792485dd18c9c45c5821b57b4262dcbd585905da61f9e6467"
+    "signature": "86d6d4209846e3d6fc775168c70b1deb5c9729bc0aaa6fe9aa2c760b0a7b255bebfa6300817da8492c7216a3de8ef1828bf8e46333bd3efb6f7082b110762778"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:47Z",
-      "nextUpdate": "2026-12-26T00:00:47Z",
+      "issueDate": "2026-11-27T00:00:39Z",
+      "nextUpdate": "2026-12-27T00:00:39Z",
       "fmspc": "20806EB70000",
       "pceId": "0000",
       "tcbType": 0,
@@ -26410,14 +26410,14 @@
         }
       ]
     },
-    "signature": "f53eab0a68ce3bc795545983432b8a245da20c1be83d674f6e366f759b51bc7c719724f86db003ad02c48bf7655654d9c487cd7f1d50b9eee408bfb29d324108"
+    "signature": "55139c715a109f3c657e373294ae1803852c701a83c1dc09b6ae0904da1ffd1d61f6b62ccece196b99e5e3211e6ae5a272085fab94f6d893238fe848743d6a90"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:22Z",
-      "nextUpdate": "2026-12-26T00:08:22Z",
+      "issueDate": "2026-11-26T23:31:49Z",
+      "nextUpdate": "2026-12-26T23:31:49Z",
       "fmspc": "00906EA10000",
       "pceId": "0000",
       "tcbType": 0,
@@ -27993,14 +27993,14 @@
         }
       ]
     },
-    "signature": "79be36b36dce55bde2489ef6409484539555bdbb31e461616a6abf1c6b7cac4e64903504380ccc90119bfc336edb77e41a41c3012972129afec1f26820344ab9"
+    "signature": "371ab36500f22bfe26e52acbe6403ebe2ec598815a2733bd4a348d3a1fad2d50f544779658571504fecb6dec7be6ddaabe2baa83f9d553f3aed0b21ac87af1e8"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:23Z",
-      "nextUpdate": "2026-12-26T00:08:23Z",
+      "issueDate": "2026-11-27T00:00:46Z",
+      "nextUpdate": "2026-12-27T00:00:46Z",
       "fmspc": "30806F040000",
       "pceId": "0000",
       "tcbType": 0,
@@ -28555,14 +28555,14 @@
         }
       ]
     },
-    "signature": "7898dd0b9677e9a3def4b72cbe210a69e9459503e6418f496cadab0cbc610ec3657046e463f12a78cba14eb5d46385593ad68925749edca06136d5525ca11ea9"
+    "signature": "a39bc662b13285d34627bc201b8c51bc796e9c899f19295f9a1cb356193296a594f982994775399fc9fab11ca8b1dfd3641450e94ef82b61fd51b8605e6fe683"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:24Z",
-      "nextUpdate": "2026-12-26T00:08:24Z",
+      "issueDate": "2026-11-27T00:00:48Z",
+      "nextUpdate": "2026-12-27T00:00:48Z",
       "fmspc": "C0806F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -29109,14 +29109,14 @@
         }
       ]
     },
-    "signature": "dc3f241a3e96383fd276552b3442401d0d188b925283372ef55654c10eed079b3f60e76b2743acfa9d5e7b0de122a062799a8f841080d9d081ef3e41293d78e0"
+    "signature": "da293890f5ceac705a8063f1544a4085455ca0c84d33b7ccdfd56790a1ff8a0e21feba07694d5e7223d6bc6ddacd53ffbffe7521aa289e571524a5d466856301"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:24Z",
-      "nextUpdate": "2026-12-26T00:08:24Z",
+      "issueDate": "2026-11-27T00:00:48Z",
+      "nextUpdate": "2026-12-27T00:00:48Z",
       "fmspc": "C0806F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -30238,14 +30238,14 @@
         }
       ]
     },
-    "signature": "2454cbb14707e881c8549b24256c2bce0a56e75e67d3a6500da6637f9019d64cfc821d877d570bbf83a03d69f68754c3cc2fcec38b7f965df70ce720ec223a9b"
+    "signature": "d6c45cdd0c340a55195fc70b69b136607063b30e5588b877a75a4826d517f9e3b5ecf0068d6d259c6c3ddebfacfa0513639e3fc28ee564f095a85eb7e982a298"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:24Z",
-      "nextUpdate": "2026-12-26T00:08:24Z",
+      "issueDate": "2026-11-27T00:00:53Z",
+      "nextUpdate": "2026-12-27T00:00:53Z",
       "fmspc": "00D06D010000",
       "pceId": "0000",
       "tcbType": 0,
@@ -30420,14 +30420,14 @@
         }
       ]
     },
-    "signature": "1a470d6dc88b92c8c83a3b1f72c724db9515abc8965d33c9d13635918e7584b84e781f0335595e18173cd92b3e23d8fe214ae0480dc9dbb780835723e1d267fd"
+    "signature": "f3c9ed3596e6ac3cbdfda76f668fe2612e6eaea6c5e5454385be7a5383132818aeffbdd85bd336f825d78d35a2ce697c76e8a3e156a536851f4acfdb020688d9"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:25Z",
-      "nextUpdate": "2026-12-26T00:08:25Z",
+      "issueDate": "2026-11-27T00:00:53Z",
+      "nextUpdate": "2026-12-27T00:00:53Z",
       "fmspc": "00D06D010000",
       "pceId": "0000",
       "tcbType": 0,
@@ -30879,14 +30879,14 @@
         }
       ]
     },
-    "signature": "63a90c8ad5f89ca229ef60bbc2777cb3c1702c4c489f83c3d8efff5607192021aebd0a26a92950e6178e561b1d9937f0c1df31e45f49838c1eb250a591bf61b0"
+    "signature": "f99b2441291388cd1ee2691d4475ee7ca57e94885723e18998908bba7f0833c61db23b31b01e7d75f6ac0dc12a236d12f37705c8ed028ada7ba5852c74e318b9"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-25T23:40:01Z",
-      "nextUpdate": "2026-12-25T23:40:01Z",
+      "issueDate": "2026-11-27T00:08:34Z",
+      "nextUpdate": "2026-12-27T00:08:34Z",
       "fmspc": "20A06D080000",
       "pceId": "0000",
       "tcbType": 0,
@@ -31185,14 +31185,14 @@
         }
       ]
     },
-    "signature": "1a94ebdcc55f7320a2159d6007ae97a68ebfa6090972e03740b837b50534df218b5f603cf34683df479bd0ab5785bc41fab7c28fc383c6c12750ca4343d74a30"
+    "signature": "1590a71f522d1f497e4c63775145081c8bf04571e97ae551feea9180aa5d0bbc1e0d2be3471555176d2ab492462be3ceeb15ccc4979f7a1d9419c1b754ab8a3e"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-25T23:40:00Z",
-      "nextUpdate": "2026-12-25T23:40:00Z",
+      "issueDate": "2026-11-27T00:08:35Z",
+      "nextUpdate": "2026-12-27T00:08:35Z",
       "fmspc": "20A06D080000",
       "pceId": "0000",
       "tcbType": 0,
@@ -31879,14 +31879,14 @@
         }
       ]
     },
-    "signature": "15812aaa36a6a633af7101a7c0a46693d08bd404e56e799e1e4eef9df3e7fbdad9edad1003d91a38f67cc4d8250bcce16ea37598bf56970390fb55c9d03e17be"
+    "signature": "0aae8f63d8cd1c840029ef6a00872828fa5e2e6d27136d4541b137854be1b9bb9a7afd12370ba6cbd780e147dc37592c934faff2414fb435664107155a5a5b90"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:26Z",
-      "nextUpdate": "2026-12-26T00:08:26Z",
+      "issueDate": "2026-11-27T00:00:54Z",
+      "nextUpdate": "2026-12-27T00:00:54Z",
       "fmspc": "10D06D010000",
       "pceId": "0000",
       "tcbType": 0,
@@ -32061,14 +32061,14 @@
         }
       ]
     },
-    "signature": "a86e77a5a33f9bce34530680622b639de73c76f6cdc88c5044a3467efbbdb95c937b137ca9cbe367edf0020bd59f55d4dac723b05adab90031e140947038119e"
+    "signature": "318341cf57f378008f1a2f4c114244a46a5527ffd587506bb44d8184c27f25763e40a9fa5d79254f51e5dcf653fc03d18e6cf619d1ea0acdf7e4445dca476fd9"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:26Z",
-      "nextUpdate": "2026-12-26T00:08:26Z",
+      "issueDate": "2026-11-27T00:00:53Z",
+      "nextUpdate": "2026-12-27T00:00:53Z",
       "fmspc": "10D06D010000",
       "pceId": "0000",
       "tcbType": 0,
@@ -32520,14 +32520,14 @@
         }
       ]
     },
-    "signature": "79ed1b8184dd170b654386829730eae0a8b99d2b50b09504387d2d9a38b41cad63dbdc3f63d1ac4bbfee1bdc20735e7e898f47d78ac65d55c83dd33ace77ed5f"
+    "signature": "d786de04f907ddeac4a792c7e61fa9e48d509edfd909b4e0bed63ef2b54b3665b49f951e8f5a57cd424cfa37d29812e88e8e9b8107f127c39f0dde935d5702bc"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:26Z",
-      "nextUpdate": "2026-12-26T00:08:26Z",
+      "issueDate": "2026-11-27T00:00:43Z",
+      "nextUpdate": "2026-12-27T00:00:43Z",
       "fmspc": "10A06D000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -32826,14 +32826,14 @@
         }
       ]
     },
-    "signature": "94aa751d2a241cc5e84ab6c0287bcaf1682e9e8d0026e073d045971891af793e29621d6bfd76a934732ee2410a12af544ce5f4ac445fb1d3b3cf82f536db86e5"
+    "signature": "7406a0a46b04232797495ae77fddadea4fd2506a3a15cd1285fe90b77c78a5a0166cc5848e9b248c87be836355c98bcc32d2883759bd457a6c3ca57118b1768a"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:27Z",
-      "nextUpdate": "2026-12-26T00:08:27Z",
+      "issueDate": "2026-11-27T00:00:43Z",
+      "nextUpdate": "2026-12-27T00:00:43Z",
       "fmspc": "10A06D000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -33520,14 +33520,14 @@
         }
       ]
     },
-    "signature": "848082bd4489e0d2d5ae9512a84571f71bfa73d697456c6d334f9504be25ecbccc7bb79cd0bb74b8ecfbe6e645b4463e6a60ac131376fc2302f87c4d87ff8c06"
+    "signature": "b176948039526d788587fc733015da509870dae82429dd3a64c46f260dde26601b788e5f45fdcbc3edae75a61c89a10558ab14f275922aba4da33a63cab6f395"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:27Z",
-      "nextUpdate": "2026-12-26T00:08:27Z",
+      "issueDate": "2026-11-26T23:40:03Z",
+      "nextUpdate": "2026-12-26T23:40:03Z",
       "fmspc": "00806F050000",
       "pceId": "0000",
       "tcbType": 0,
@@ -34082,14 +34082,14 @@
         }
       ]
     },
-    "signature": "855a69f10a1211463fd13038b72515bb8aebbee2638fda99ac4cc6be4531379fc8d0fa7c491f344701a3044ccbdcd3c9e18725808ed4f01346c6aeaaf9cc52d5"
+    "signature": "1b5786b19377cb65ff9a233c54e3215fb1bb231f5a21df6d73f9e166805b27702e8a8c1a4c83548d5a085a284d1b95815519966439ca067eeb68a5e69701a442"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-25T23:28:31Z",
-      "nextUpdate": "2026-12-25T23:28:31Z",
+      "issueDate": "2026-11-26T23:38:55Z",
+      "nextUpdate": "2026-12-26T23:38:55Z",
       "fmspc": "00806F050000",
       "pceId": "0000",
       "tcbType": 0,
@@ -35219,14 +35219,14 @@
         }
       ]
     },
-    "signature": "92a088e09a9e4941df007415338a9bf54b638f0a6cb33c0e29d6c2560f2e495aae7225a00815f4a269ba5dcb042071c039a93350d22bff210eb2a6b93355402a"
+    "signature": "49edcb703feb96a5e4ca24be64171614cc38631e581207a238dc4b9afc833eb175421f155db937595b837f4e91b3231e65a3e3b6c752f7c189297bc2d10e2b47"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:48Z",
-      "nextUpdate": "2026-12-26T00:00:48Z",
+      "issueDate": "2026-11-27T00:00:39Z",
+      "nextUpdate": "2026-12-27T00:00:39Z",
       "fmspc": "20906EC10000",
       "pceId": "0000",
       "tcbType": 0,
@@ -36721,14 +36721,14 @@
         }
       ]
     },
-    "signature": "9130eea9fccc7adf096152cfa0e9aebbe6cb023970e43e6bb8f76247811f7395a64ecf77393591cd4ff65ed94046fa3acbc9e08bb2880ab65f7d0bc54ee51edf"
+    "signature": "257d0136b35b45f2cd270321dc48defbc915d56bd5df3927b5a802480adbc8a6574d43ee0b2846fb337dbcdb4fa2258b636f3c9137443afadcd5699248c3e194"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:28Z",
-      "nextUpdate": "2026-12-26T00:08:28Z",
+      "issueDate": "2026-11-27T00:08:36Z",
+      "nextUpdate": "2026-12-27T00:08:36Z",
       "fmspc": "90C06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -37115,14 +37115,14 @@
         }
       ]
     },
-    "signature": "1c33bd022b653c74f13abe7f6b7f1baa5e283c6bb6f59c9763b80cfce2df37934addfbb77e5bce98d8d52e35c974461a17674115f6937567a09163e20c8fabb1"
+    "signature": "8579208eff540b55f8c1349521ee9644534209dc54cf8db786d62f93085c8cb66989b7c0c261e25370dea855dc414c33a8302a3c5acce020cdeecc2c7e433aba"
   },
   {
     "tcbInfo": {
       "id": "TDX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:29Z",
-      "nextUpdate": "2026-12-26T00:08:29Z",
+      "issueDate": "2026-11-27T00:08:36Z",
+      "nextUpdate": "2026-12-27T00:08:36Z",
       "fmspc": "90C06F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -37954,14 +37954,14 @@
         }
       ]
     },
-    "signature": "c05028a47d4e737bbd0243b580c611b41b9c21684f37592c3864f55831294fa8b0018d04fdb77962c671698e7d765a1c1a4e9623be67983941ac6fb2f9fdcfcb"
+    "signature": "c982acfcb798fdd57d05d84871fa85030b39d2679b9c68070e0b27e473fb02ded2b5598b1825ff04f1d6c15351f9e509f161adcd6740b9299f450c64208ded8d"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:29Z",
-      "nextUpdate": "2026-12-26T00:08:29Z",
+      "issueDate": "2026-11-27T00:00:47Z",
+      "nextUpdate": "2026-12-27T00:00:47Z",
       "fmspc": "00806F000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -38516,14 +38516,14 @@
         }
       ]
     },
-    "signature": "5f1180e2b6e5940594d33ded2aab73c5244bc33bad63cd1bbccf265d9ff2dab78faab0d50622d48111b080a5cf18a8718d47311d8aeb43840f0e77658bf67fe9"
+    "signature": "a1cd248c1cc2278250e44a12b7d7468e096cad56f3784286f68e096ac0c126dfc8b1be5b655088fd66a270651ea99cf8959869b9ee625274b61854fe5ee24d29"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:00:48Z",
-      "nextUpdate": "2026-12-26T00:00:48Z",
+      "issueDate": "2026-11-27T00:00:40Z",
+      "nextUpdate": "2026-12-27T00:00:40Z",
       "fmspc": "00906EB10000",
       "pceId": "0000",
       "tcbType": 0,
@@ -40099,14 +40099,14 @@
         }
       ]
     },
-    "signature": "360b66003a0c2690dde6f9009ae2a7c037a0dccfac924049a9a8f464e3bb1480ea09050d9be221f61c5107c9a74b93e581382fc8cf1ae1f77fc788e4eb82dbd7"
+    "signature": "ccc8ff65c4491560d714b06c3053125f652f16abc9711c61d51bb8420149692c45b8b800bf260a3b9898ff0d09f85db3022e908717dc796e9fb422dd488ef070"
   },
   {
     "tcbInfo": {
       "id": "SGX",
       "version": 3,
-      "issueDate": "2026-11-26T00:08:31Z",
-      "nextUpdate": "2026-12-26T00:08:31Z",
+      "issueDate": "2026-11-26T23:31:53Z",
+      "nextUpdate": "2026-12-26T23:31:53Z",
       "fmspc": "00606A000000",
       "pceId": "0000",
       "tcbType": 0,
@@ -41388,6 +41388,6 @@
         }
       ]
     },
-    "signature": "797adb2881f74957b4d3acc7ff6f9a83397be57537105518381675196da112eee7167820fbc092767de06157f1044694f5da90dd4e406dccc219b1964faad8b6"
+    "signature": "bc2ddacfa84010a971273399a806d31e6d03df0e61fb9b2d4475818f89ca5b1d8eb5318a22e6b79109b7fa6f53a8234c3516fb9ba58d9f099c1911c83b310383"
   }
 ]
